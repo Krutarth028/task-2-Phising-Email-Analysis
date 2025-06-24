@@ -1,0 +1,29 @@
+# Phishing Email Analysis Report
+
+
+## 1. Sender Information
+- From: IT Support <it-support@contos0.com>
+- Spoofed domain detected
+
+## 2. Email Header Findings
+- Return-Path domain mismatch
+- SPF/DKIM/DMARC not aligned
+
+## 3. Suspicious Links
+- Display: https://outlook.microsoft.com/reset
+- Actual: http://contos0-reset.com/reset?id=83921 (mismatched)
+
+## 4. Language Analysis
+- Urgent tone: "Immediate Action Required: Password Reset Notice"
+- Grammar issues found
+
+## 5. Attachments
+- File: invoice.exe — flagged by "VirusTotal"
+
+## 6. Social Engineering Techniques
+- Pretends to be a trusted source
+- Uses fear to trigger quick response
+
+## Conclusion:
+This email is a phishing attempt using spoofing, social engineering, and malicious links.
+

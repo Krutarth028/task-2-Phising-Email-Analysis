@@ -1,0 +1,45 @@
+From: IT Support <it-support@contos0.com>
+To: "employee@yourcompany.com" <employee@yourcompany.com>
+Subject: Urgent: Password Reset Required Immediately
+Thread-Topic: Urgent: Password Reset Required Immediately
+Thread-Index: AQHb5Ou5vzdLTj1meke7486bgVUVuQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Tue, 24 Jun 2025 15:08:22 +0530
+Message-ID:
+	<SI6PR03MB8649817E598FC11CC6DB8AB1CD78A@SI6PR03MB8649.apcprd03.prod.outlook.com>
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/alternative;
+	boundary="_000_SI6PR03MB8649817E598FC11CC6DB8AB1CD78ASI6PR03MB8649apcp_"
+MIME-Version: 1.0
+
+--_000_SI6PR03MB8649817E598FC11CC6DB8AB1CD78ASI6PR03MB8649apcp_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+RGVhciBlbXBsb3llZSwNCg0KV2UndmUgZGV0ZWN0ZWQgdW51c3VhbCBhY3Rpdml0eSBvbiB5b3Vy
+IGVtYWlsIGFjY291bnQuIFRvIHByZXZlbnQgYW55IHVuYXV0aG9yaXplZCBhY2Nlc3MsIHBsZWFz
+ZSByZXNldCB5b3VyIHBhc3N3b3JkIGltbWVkaWF0ZWx5Lg0KDQpDbGljayBoZXJlIHRvIHJlc2V0
+Og0KaHR0cHM6Ly9vdXRsb29rLm1pY3Jvc29mdC5jb20vcmVzZXQ8aHR0cDovL2NvbnRvczAtcmVz
+ZXQuY29tL3Jlc2V0P2lkPTgzOTIxPg0KDQpJZiBub3QgY29tcGxldGVkIGJ5IGVuZCBvZiBkYXks
+IHlvdXIgYWNjZXNzIG1heSBiZSB0ZW1wb3JhcmlseSBzdXNwZW5kZWQuDQoNClRoYW5rIHlvdSwN
+CkNvbnRvc28gQ29ycCBJVCBTdXBwb3J0DQo=
+
+--_000_SI6PR03MB8649817E598FC11CC6DB8AB1CD78ASI6PR03MB8649apcp_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5Pg0KPHA+RGVhciBlbXBs
+b3llZSw8L3A+DQo8cD5XZSd2ZSBkZXRlY3RlZCB1bnVzdWFsIGFjdGl2aXR5IG9uIHlvdXIgZW1h
+aWwgYWNjb3VudC4gVG8gcHJldmVudCBhbnkgdW5hdXRob3JpemVkIGFjY2VzcywgcGxlYXNlIHJl
+c2V0IHlvdXIgcGFzc3dvcmQgaW1tZWRpYXRlbHkuPC9wPg0KPHA+PGI+Q2xpY2sgaGVyZSB0byBy
+ZXNldDo8L2I+PGJyPg0KPGEgaHJlZj0iaHR0cDovL2NvbnRvczAtcmVzZXQuY29tL3Jlc2V0P2lk
+PTgzOTIxIj5odHRwczovL291dGxvb2subWljcm9zb2Z0LmNvbS9yZXNldDwvYT48L3A+DQo8cD5J
+ZiBub3QgY29tcGxldGVkIGJ5IDxiPmVuZCBvZiBkYXk8L2I+LCB5b3VyIGFjY2VzcyBtYXkgYmUg
+dGVtcG9yYXJpbHkgc3VzcGVuZGVkLjwvcD4NCjxwPlRoYW5rIHlvdSw8YnI+DQo8aT5Db250b3Nv
+IENvcnAgSVQgU3VwcG9ydDwvaT48L3A+DQo8L2JvZHk+DQo8L2h0bWw+DQo=
+
+--_000_SI6PR03MB8649817E598FC11CC6DB8AB1CD78ASI6PR03MB8649apcp_--
