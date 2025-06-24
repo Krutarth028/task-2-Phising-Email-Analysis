@@ -20,7 +20,8 @@ This project demonstrates how to analyze a potential phishing email. Below are t
 4. Identify Suspicious Links or Attachments
    - Hovered over links to detect mismatched or shortened URLs.
    - Checked attachments for dangerous file types like .exe, .js, or .docm.
-
+   - Analyzed suspicious link using tool like[Online Virus or URL analyzer] (https://www.virustotal.com/gui/home/upload).
+  
 5. Look for Urgent or Threatening Language
    - Detected common tactics like "Your account will be suspended!" or "Click immediately!" we can see "Immediate Action Required: Password Reset Notice".
 
